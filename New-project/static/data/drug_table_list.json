@@ -1,0 +1,39 @@
+{
+  "msg":"操作处理成功",
+  "code":"1c01",
+  "biz_result":{"list":[{
+  	"name":"白术",
+  	"chinese_name":"冬术,冬白术,杨枹蓟,桴蓟,种术,浙术,干术,山芥,山连,山蓟,山枪精,乞力伽,天蓟.",
+  	"english_name":"RHIZOMA,ATRACTYLODISMACROCEPHALAE",
+    "src":"111",
+    "name_type":{
+        "chinese_name":"冬术,冬白术,杨枹蓟,桴蓟,种术,浙术,干术,山芥,山连,山蓟,山枪精,乞力伽,天蓟.",
+        "english_name":"RHIZOMA,ATRACTYLODISMACROCEPHALAE",
+        "latin_name":"RHIZOMA,ATRACTYLODISMACROCEPHALAE"
+      },
+    "drug_effect":{
+        "summary_content":"冬术,冬白术,杨枹蓟,桴蓟,种术,浙术,干术,山芥,山连,山蓟,山枪精,乞力伽,天蓟冬术,冬白术,杨枹蓟,桴蓟,种术,浙术,干术,山芥,山连,山蓟,山枪精,乞力伽,天蓟.",
+        "effect_content":"冬术,冬白术,杨枹蓟,桴蓟,种术,浙术,干术,山芥,山连,山蓟,山枪精,乞力伽,天蓟冬术,冬白术,杨枹蓟,桴蓟,种术,浙术,干术,山芥,山连,山蓟,山枪精,乞力伽,天蓟."
+      },
+    "spec":{
+        "spec_content":"冬术,冬白术,杨枹蓟,桴蓟,种术,浙术,干术,山芥,山连,山蓟,山枪精,乞力伽,天蓟冬术,冬白术,杨枹蓟,桴蓟,种术,浙术,干术,山芥,山连,山蓟,山枪精,乞力伽,天蓟."
+      }
+  }],
+  "hot_drug_list":[
+      {"hot_drug":"人参"},
+      {"hot_drug":"千年人参"},
+      {"hot_drug":"人参"},
+      {"hot_drug":"千年人参雪莲"},
+      {"hot_drug":"人参"},
+      {"hot_drug":"千年人参"},
+      {"hot_drug":"人参"},
+      {"hot_drug":"千年人参"},
+      {"hot_drug":"人参"},
+      {"hot_drug":"千年人参"},
+      {"hot_drug":"人参"},
+      {"hot_drug":"千年人参"}
+  ]
+
+
+}
+}
